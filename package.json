@@ -30,6 +30,7 @@
     "@angular/cli": "^19.1.7",
     "@angular/compiler-cli": "^19.1.0",
     "jest": "^29.7.0",
+    "sonar-scanner": "^3.1.0",
     "typescript": "~5.7.2"
   }
 }
